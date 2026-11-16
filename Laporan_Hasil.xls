@@ -1,0 +1,85 @@
+﻿<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+<style>
+body { font-family: Calibri, Arial, sans-serif; font-size: 11pt; }
+h2 { text-align: center; color: #1F497D; margin-bottom: 2px; }
+.table-data { border-collapse: collapse; width: 100%; margin-top: 15px; }
+.table-data th { background-color: #2F5597; color: white; border: 1px solid #000; padding: 8px; text-align: center; font-weight: bold; }
+.table-data td { border: 1px solid #000; padding: 6px; }
+.text-center { text-align: center; }
+.text-right { text-align: right; mso-number-format:'\#\,\#\#0\.00'; }
+.sig-table { width: 100%; margin-top: 40px; border: none; }
+.sig-table td { border: none; padding: 4px; }
+</style>
+</head>
+<body>
+<h2>REKAPITULASI LAPORAN PENJUALAN</h2>
+<p style='text-align: center; margin-top: 0;'>Tanggal Cetak: 09 November 2026</p>
+<table class='table-data'>
+<tr>
+<th>No</th>
+<th>Order ID</th>
+<th>Nama Pelanggan</th>
+<th>Jumlah</th>
+<th>Harga Satuan</th>
+<th>Total</th>
+</tr>
+<tr>
+<td class='text-center'>1</td>
+<td class='text-center'>1002</td>
+<td>Siti Aminah</td>
+<td class='text-center'>2</td>
+<td class='text-right'>150,000.00</td>
+<td class='text-right'>300,000.00</td>
+</tr>
+<tr>
+<td class='text-center'>2</td>
+<td class='text-center'>1002</td>
+<td>Siti Aminah</td>
+<td class='text-center'>2</td>
+<td class='text-right'>150,000.00</td>
+<td class='text-right'>300,000.00</td>
+</tr>
+<tr>
+<td class='text-center'>3</td>
+<td class='text-center'>1002</td>
+<td>Siti Aminah</td>
+<td class='text-center'>2</td>
+<td class='text-right'>150,000.00</td>
+<td class='text-right'>300,000.00</td>
+</tr>
+<tr>
+<td class='text-center'>4</td>
+<td class='text-center'>1002</td>
+<td>Siti Aminah</td>
+<td class='text-center'>2</td>
+<td class='text-right'>150,000.00</td>
+<td class='text-right'>300,000.00</td>
+</tr>
+<tr>
+<td class='text-center'>5</td>
+<td class='text-center'>1002</td>
+<td>Siti Aminah</td>
+<td class='text-center'>2</td>
+<td class='text-right'>150,000.00</td>
+<td class='text-right'>300,000.00</td>
+</tr>
+<tr style='font-weight: bold; background-color: #D9E1F2;'>
+<td colspan='5' style='text-align: right;'>Grand Total:</td>
+<td class='text-right'>1,500,000.00</td>
+</tr>
+</table>
+<table class='sig-table'>
+<tr>
+<td style='width: 60%;'></td>
+<td style='width: 40%; text-align: center;'>
+Jakarta, 09 November 2026<br/>
+<b>Mengetahui,</b><br/>
+Manager Keuangan<br/><br/><br/><br/><br/>
+( <u> ..................................</u> )
+</td>
+</tr>
+</table>
+</body>
+</html>
